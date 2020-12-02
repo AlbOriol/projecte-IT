@@ -1,0 +1,2 @@
+# projecte-IT
+Exercici Git
